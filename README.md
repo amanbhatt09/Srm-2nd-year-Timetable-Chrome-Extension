@@ -1,4 +1,4 @@
-# Srm-2nd-year-Timetable-Chrome-Extension
+# Timetable-Reminder
 SRM 2 nd year time table chrome extension
 
 it gives reminder on time of the class
