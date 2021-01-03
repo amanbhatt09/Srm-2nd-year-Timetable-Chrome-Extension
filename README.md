@@ -1,6 +1,3 @@
-
-https://img.badgesize.io/Srm-Timetable-Reminder/blob/main/README.md.svg?compression=gzip&label=string&max=string&softmax=string
-
 # Timetable-Reminder
 SRM 2 nd year time table chrome extension
 
